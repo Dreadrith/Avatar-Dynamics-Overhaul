@@ -1,5 +1,5 @@
 # Avatar-Dynamics-Overhaul
-Documentation and Changelog for Avatar Dynamics Overhaul
+Documentation and Changelog for <a href=https://dreadrith.gumroad.com/l/ADOverhaul>Avatar Dynamics Overhaul</a>
 
 # Under Development
 ADOverhaul and this page are still under development. Some features may not be finished or don't work correctly.
